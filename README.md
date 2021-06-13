@@ -5,7 +5,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64a1b4026ff74584b91c5e78dce50854)](https://app.codacy.com/app/LenoxBot/LenoxBot?utm_source=github.com&utm_medium=referral&utm_content=LenoxBot/LenoxBot&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.com/LenoxBot/LenoxBot.svg?branch=testing)](https://travis-ci.com/LenoxBot/LenoxBot)
 [![Discord](https://discordapp.com/api/guilds/352896116812939264/widget.png)](https://lenoxbot.com/discord)
-
+[![Run on Repl.it](https://repl.it/badge/github/apoow3b/lenoxbot)](https://repl.it/github/apoow3b/lenoxbot)
 ## Table of Content
 
 * [Installation](#installation)
